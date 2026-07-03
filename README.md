@@ -35,7 +35,6 @@ Me muevo bien entre el código y la conversación de negocio. Si hay un problema
 ### 📌 Destacado
 
 - **[POS-demo](https://github.com/TomiPicols/POS-demo)** — punto de venta (POS) para ferias y eventos, hecho con React, Vite y TypeScript.
-- *Más proyectos pronto — la mayor parte de mi trabajo actual vive en repos privados de empresa/cliente.*
 
 ### 🌱 Aprendiendo ahora
 
